@@ -1,1 +1,0 @@
-Sets the window manager active hint from a terminal. Compile with `cc urgent.c -lX11 -o urgent`.
